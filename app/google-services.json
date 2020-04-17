@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "477443294132",
+    "firebase_url": "https://comorangetheoryfitness.firebaseio.com",
+    "project_id": "comorangetheoryfitness",
+    "storage_bucket": "comorangetheoryfitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477443294132:android:783c4f4b12b42e345da8e1",
+        "android_client_info": {
+          "package_name": "aki.pvnghe.kotlinext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477443294132-nsbbinspc2p77nnhmv7vf8vhijlbihs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7OwP0f4yxYI0Y35Icy1cy47XDewqjpCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477443294132-nsbbinspc2p77nnhmv7vf8vhijlbihs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477443294132:android:041df8b4931e865d",
+        "android_client_info": {
+          "package_name": "com.orangetheoryfitness.presentation.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477443294132-3hku87eotsq3are84juod19n0r3a7in9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orangetheoryfitness.presentation.debug",
+            "certificate_hash": "2614254d8cf8d3884f6fd03e39b7ab097d20f3c9"
+          }
+        },
+        {
+          "client_id": "477443294132-nsbbinspc2p77nnhmv7vf8vhijlbihs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7OwP0f4yxYI0Y35Icy1cy47XDewqjpCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477443294132-nsbbinspc2p77nnhmv7vf8vhijlbihs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
